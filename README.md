@@ -163,10 +163,10 @@ ChatZoomApp/
 
 ## 👨‍💻 Developed By
 
-**Love Porwal**
-Full Stack Trainer | MERN Stack Mentor
+**Shubham Kumar**
+Shubham Kumar
 
-Built with ❤️ to help students master real-time and fullstack apps.
+Built with 🧠 for  real-time and fullstack apps.
 
 ---
 
