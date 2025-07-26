@@ -163,10 +163,11 @@ ChatZoomApp/
 
 ## 👨‍💻 Developed By
 
+<<<<<<< HEAD
 **Shubham Kumar**
 Shubham Kumar
 
 Built with 🧠 for  real-time and fullstack apps.
+=======
 
----
 
