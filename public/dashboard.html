@@ -67,7 +67,7 @@
     document.getElementById("chat-room").innerText = `Room: ${room}`;
 
     // 🔌 Connect to socket server
-    const socket = io("https://chatzoom-nvey.onrender.com/", { transports: ["websocket"] });
+    const socket = io("https://chatzoom-nvey.onrender.com", { transports: ["websocket"] });
 
     // 📌 Elements
     const input = document.getElementById("ip");
